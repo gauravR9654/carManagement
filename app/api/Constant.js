@@ -2,7 +2,7 @@ import axios from "axios";
 // import Cookies from "js-cookie";
 // export const base_Url = `http://35.154.48.96/api/v1`;
 // export const base_Url = `https://sportzclub.in/api/v1`;
-export const base_Url_local = "http://localhost:4000/cars/"
+export const base_Url_local = "https://carmanagementbackend-03gd.onrender.com/cars/"
 
 export const postData = async (apiUrl, formData) => {
 
